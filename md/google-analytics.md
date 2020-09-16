@@ -12,9 +12,9 @@
 
 You can have new users send requests to this address individually and we will walk them through registration. We have a top-level DOD POC who will approve. As long as they have .mil email addresses, we have a blanket approval from the POC.
 
-Tim Lowden
-Program Manager
-Digital Analytics Program
+Tim Lowden <br/>
+Program Manager<br/>
+Digital Analytics Program<br/>
 analytics.usa.gov
 
 
