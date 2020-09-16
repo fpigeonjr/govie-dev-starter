@@ -8,7 +8,7 @@
 * **Optional** [Set up a reporting view in your property](https://support.google.com/analytics/answer/1009714). Views let you create filtered perspectives of your data; for example, all data except from your company’s internal IP addresses, or all data associated with a specific sales region.
 * Follow the instructions to add the tracking code to your [website](https://support.google.com/analytics/answer/1008080) or mobile app so you can collect data in you Analytics property.
 
-## To gain access to the DAP(Digital Analytics Program) email [dap@support.digitalgov.gov](dap@support.digitalgov.gov).
+## To gain access to the DAP(Digital Analytics Program) email <dap@support.digitalgov>.
 
 You can have new users send requests to this address individually and we will walk them through registration. We have a top-level DOD POC who will approve. As long as they have .mil email addresses, we have a blanket approval from the POC.
 
